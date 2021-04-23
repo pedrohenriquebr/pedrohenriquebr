@@ -2,6 +2,8 @@
 
 I'm studying System Development and Analysis on IBMR Laureate International Universities.
 
+
+
 ### Languages and Tools
 
 <br/>
@@ -81,6 +83,25 @@ I'm studying System Development and Analysis on IBMR Laureate International Univ
   </a> 
   
   
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
+      alt="csharp"
+      width="40"
+      height="40"
+    />
+  </a>   
+  
+  <a href="https://www.java.com/pt-BR/">
+    <img
+      src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a> 
+  
+  
   <a href="https://git-scm.com/">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
@@ -103,3 +124,4 @@ I'm studying System Development and Analysis on IBMR Laureate International Univ
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pedrohenriquebr&show_icons=true&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
