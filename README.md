@@ -3,11 +3,29 @@
 I'm studying System Development and Analysis on IBMR Laureate International Universities.
 I love web & desktop development. Currently I'm focusing on .Net and Angular.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohenriquebr&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohenriquebr" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquebr&theme=monokai&margin-w=15" alt="pedrohenriquebr" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/pedrohenriquebr](https://github.com/pedrohenriquebr)
+- 📫 How to reach me **pedrohenriquebraga735@gmail.com**
+- 📄 Know about my experiences https://www.linkedin.com/in/pedro-henrique-braga-da-silva/
 
 
-### Languages and Tools
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/pedrohenriquebr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pedrohenriquebr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedro-henrique-braga-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-henrique-braga-da-silva" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7590590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7590590" height="30" width="40" /></a>
+<a href="https://kaggle.com/pedrohenriquebraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedrohenriquebraga" height="30" width="40" /></a>
+<a href="https://fb.com/pedrohenrique.braga.353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pedrohenrique.braga.353" height="30" width="40" /></a>
+<a href="https://instagram.com/pedrohbr_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrohbr_silva" height="30" width="40" /></a>
 
-<br/>
+
+</p>
+
+
+<h3 align="left">Languages and Tools:</h3>
 <a href="https://angular.io/">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
@@ -92,9 +110,9 @@ I love web & desktop development. Currently I'm focusing on .Net and Angular.
  
    
   
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
+  <a style="background-color: white;" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
       alt="sqlserver"
       width="40"
       height="40"
@@ -124,13 +142,6 @@ I love web & desktop development. Currently I'm focusing on .Net and Angular.
   
 </p>
 
-
-
-# Find me elsewhere 🌎
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-braga-da-silva/)](https://www.linkedin.com/in/pedro-henrique-braga-da-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrohenriquebraga735@gmail.com)](mailto:pedrohenriquebraga735@gmail.com)
-
-
-| DevCard | Used Languages |
+| DevCard | Most Used Languages |
 |  ------ | ---- |
 | <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pedrohenriquebr/pedrohenriquebr/blob/main/devcard.svg" width="400" alt="Pedro Braga's Dev Card"/></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
