@@ -14,134 +14,25 @@ I love web & desktop development. Currently I'm focusing on .Net and Angular.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <a href="https://codepen.io/pedrohenriquebr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pedrohenriquebr" height="30" width="40" /></a>
 <a href="https://dev.to/pedrohenriquebr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pedrohenriquebr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pedro-henrique-braga-da-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pedro-henrique-braga-da-silva" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7590590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7590590" height="30" width="40" /></a>
 <a href="https://kaggle.com/pedrohenriquebraga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pedrohenriquebraga" height="30" width="40" /></a>
-<a href="https://fb.com/pedrohenrique.braga.353" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pedrohenrique.braga.353" height="30" width="40" /></a>
 <a href="https://instagram.com/pedrohbr_silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrohbr_silva" height="30" width="40" /></a>
-
-
+<a href="https://www.hackerrank.com/pedrohenriquebr2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pedrohenriquebr2" height="30" width="40" /></a>
 </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://angular.io/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://pt-br.reactjs.org">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-   <a href="https://www.typescriptlang.org/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  
- <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
-      alt="html"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"
-      alt="css"
-      width="40"
-      height="40"
-    />
-  </a>
-  
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-   <a href="https://www.python.org/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a> 
-  
-  
-   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://nodejs.org/en/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a> 
-  
- 
-   
-  
-  <a style="background-color: white;" href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-      alt="sqlserver"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-     
-  
-  <a href="https://www.java.com/pt-BR/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a> 
-  
-  
-  <a href="https://git-scm.com/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a> 
-  
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
-</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohenriquebr&show_icons=true&locale=en&layout=compact" alt="pedrohenriquebr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohenriquebr&show_icons=true&locale=en" alt="pedrohenriquebr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohenriquebr&" alt="pedrohenriquebr" /></p>
+
+&nbsp;
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pedrohenriquebr/pedrohenriquebr/blob/main/devcard.svg" width="400" alt="Pedro Braga's Dev Card"/></a>
