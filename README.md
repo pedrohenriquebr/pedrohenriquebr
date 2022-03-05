@@ -142,6 +142,6 @@ I love web & desktop development. Currently I'm focusing on .Net and Angular.
   
 </p>
 
-| DevCard | Most Used Languages |
-|  ------ | ---- |
-| <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pedrohenriquebr/pedrohenriquebr/blob/main/devcard.svg" width="400" alt="Pedro Braga's Dev Card"/></a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohenriquebr&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+</br>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pedrohenriquebr/pedrohenriquebr/blob/main/devcard.svg" width="400" alt="Pedro Braga's Dev Card"/></a>
