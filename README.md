@@ -1,7 +1,7 @@
 # Hi, I'm Pedro Braga 👋👨‍💻
 
 I'm studying System Development and Analysis on IBMR Laureate International Universities.
-I love web & desktop development. Currently I'm focusing on Nodejs and React.
+I love web & desktop development. Currently I'm focusing on .Net and Angular.
 
 
 
