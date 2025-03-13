@@ -1,8 +1,5 @@
 # Hi, I'm Pedro Braga 👋👨‍💻
 
-I'm studying System Development and Analysis on IBMR Laureate International Universities.
-I love web & desktop development. Currently I'm focusing on .Net and Angular.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrohenriquebr&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohenriquebr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquebr&theme=monokai&margin-w=15" alt="pedrohenriquebr" /></a> </p>
