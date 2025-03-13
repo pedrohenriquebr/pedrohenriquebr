@@ -8,8 +8,6 @@ I love web & desktop development. Currently I'm focusing on .Net and Angular.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohenriquebr&theme=monokai&margin-w=15" alt="pedrohenriquebr" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedrohenriquebr](https://github.com/pedrohenriquebr)
-- 📫 How to reach me **pedrohenriquebraga735@gmail.com**
-- 📄 Know about my experiences https://www.linkedin.com/in/pedro-henrique-braga-da-silva/
 
 
 <h3 align="left">Connect with me:</h3>
